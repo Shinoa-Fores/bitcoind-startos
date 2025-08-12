@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#TWAT TO SEE IF THIS GARBAGE BUILDS.
 # set -e
 
 gi_result=$(bitcoin-cli getrpcinfo 2>&1)
