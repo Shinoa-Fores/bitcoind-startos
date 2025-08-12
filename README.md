@@ -2,7 +2,7 @@
   <img src="icon.png" alt="Project Logo" width="21%">
 </p>
 
-# Bitcoin Core for StartOS
+# Bitcoin Core for StartOS TEST
 
 This project packages [Bitcoin](https://bitcoin.org) for StartOS. Bitcoin uses peer-to-peer technology to operate with no central authority or banks - managing transactions and the issuing of bitcoins is carried out collectively by the network. 
 
